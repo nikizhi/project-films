@@ -7,7 +7,7 @@
 Данный API использует Python в качестве языка программирования. Библиотеки: FastAPI, SQLAlchemy, DateTime, Pydantic, Asyncio, Pytest.
 ## Итоговая структура проекта
 Структура выглядит следующим образом:
-project-films/
+project-films/ \n
 | → alembic/
 |   → versions/
 |     → d981bbcd7795_init_movies.py
