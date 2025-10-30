@@ -1,1 +1,1 @@
-# project-films
+# Проект API для фильмов
